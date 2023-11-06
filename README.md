@@ -47,8 +47,8 @@ Plot the graph with transformed inputs using RBF
 Test for the XOR patterns.
 
 ## PROGRAM:
-### Developed By: Akash A
-### Reg.No: 212221230003
+### Developed By: E Prasanth
+### Reg.No: 212221233002
 ```py
 import numpy as np
 import matplotlib.pyplot as plt
